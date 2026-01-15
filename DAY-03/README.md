@@ -87,16 +87,14 @@ i Value	Condition (i < 5)	Output
 3	true	Hello World
 4	true	Hello World
 5	false	Loop stops
-Key Takeaways (Day 03)
 
+
+# Key Takeaways (Day 03)
 Functions help avoid repetition
-
 Parameters receive data, arguments pass data
-
 if-else controls program flow
 
-Loops automate repeated tasks
+# Loops automate repeated tasks
 
 Dry run improves logic clarity
-
 📌 Day 03 completed: Control flow and logic building.
